@@ -1,0 +1,6 @@
+steup ssh key github
+
+2g volym, ta bort efter labb
+
+om fast rename volume "delete me"
+
