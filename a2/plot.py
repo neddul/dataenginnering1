@@ -1,3 +1,4 @@
+
 import matplotlib.pyplot as plt
 
 def read_data(file_name):
@@ -20,3 +21,4 @@ if __name__ == '__main__':
     file_name = 'part-r-00000'
     data = read_data(file_name)
     plot_data(data)
+
