@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  sparkmaster:
+    build: ./sparkmaster
+    image: my_sparkmaster
+
+  sparkworker:
+    build: ./sparkworker
+    image: my_sparkworker
